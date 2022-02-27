@@ -1,12 +1,12 @@
 {
 
-"Full name" : "Сабитов Эдуард Анатольевич",
+"Name" : "Eduard",
 
 "Age" : 38,
 
-"Pets" : 0,
+"Pets" : Not,
 
-"Future desired salary in dollars" : 2000
+"Salary" : 2000
 
 
 }
